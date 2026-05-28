@@ -1,5 +1,6 @@
 # Diagramy – Paczkomat
-## PU1–PU5: Diagramy decyzyjne i diagramy przepływu
+## Diagramy przedstawiające działanie najważniejszych przypadków użycia (PU) paczkomatu.
+## Autorzy: Kamil Mendyk, Karol Wziątek
 
 ---
 
